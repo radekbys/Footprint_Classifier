@@ -1,0 +1,4 @@
+satisfactory results:
+epoch 19 | training loss 0.0330 | testing loss 0.0310 | acc: 0.9920 | prec: 0.9329 | recall: 1.0000
+
+Removed scaling to 360p from inside the model. Weigths filesize still large, around 200MB
